@@ -1,0 +1,39 @@
+@font-face {
+	font-family: lagra;
+	src: url(../misc/La\ Graziela\ Script\ Demo.otf);
+}
+
+@font-face {
+	font-family: pent;
+	src: url(../misc/Pentool.otf);
+}
+
+@font-face {
+	font-family: sinoreta;
+	src: url(../misc/Sinoreta.otf);
+}
+
+@font-face {
+	font-family: header;
+	src: url(../misc/Franklin\ Gothic\ Demi\ Regular.ttf);
+}
+
+@font-face {
+	font-family: ptg;
+	src: url(../misc/Photography.otf);
+}
+
+@font-face {
+	font-family: zas;
+	src: url(../misc/Zasline.otf);
+}
+
+@font-face {
+	font-family: lin;
+	src: url(../misc/LinLibertine_DR.ttf);
+}
+
+@font-face {
+	font-family: ty;
+	src: url(../misc/Thank\ you.ttf);
+}
